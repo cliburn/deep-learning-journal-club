@@ -24,7 +24,8 @@ Tuesdays 3-4 PM (Room 11010 Hock Plaza)
 | 29-05-2018 | Ben       | [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)                                                                                                                                                                                                                                                   |
 | 05-06-2018 | n/a       | No meeting                                                                                                                                                                                                                                                                                                                                            |
 | 12-06-2018 | n/a       | No meeting                                                                                                                                                                                                                                                                                                                                            |
-
+| 19-06-2018 | n/a       | Brief "what were we doing?" meeting                                                                                                                                                                                                                                                                                                                                           |
+| 26-06-2018 | Scott       | Comparison of Deep Learning Frameworks in Python                                                                                                                                                                                                                                                                                                               |
 
 **General topics of interest**
 
